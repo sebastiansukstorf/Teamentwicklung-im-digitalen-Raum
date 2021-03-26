@@ -1,14 +1,17 @@
 ---
-title: "Untitled"
+title: "Teamentwicklung im digitalen Raum"
 description: |
-  A new article created using the Distill format.
+  Eine gemeinsame Betrachtung von Leitenden aus der Öffentlichen Verwaltung.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Sebastian Sukstorf
+    url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
+    affiliation: Sebastian Sukstorf - Consulting & Coaching
+    affiliation_url: https://www.sebastian.sukstorf.de
 date: "`r Sys.Date()`"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    self_contained: false
+    
 ---
 
 ```{r setup, include=FALSE}
