@@ -4,7 +4,7 @@ description: |
   Eine gemeinsame (und anonymisierte) Betrachtung von Führungskräften aus der deutschen Verwaltung während eines Online Seminars.
 author:
   - name: Sebastian Sukstorf
-    url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
+    
     orcid_id: 0000-0002-1538-5658
     github: sebastiansukstorf
     orcid: 0000-0002-1538-5658
@@ -16,14 +16,24 @@ date: "`r Sys.Date()`"
 output: 
   distill::distill_article:
     self_contained: false
+repository_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
+compare_updates_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum/compare/pubv1...master
+creative_commons: CC BY-NC
     
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+# Über einen verwirrenden Titel - 
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+Der Titel mag ein wenig verwirren.
+Allerdings handelt es sich hierbei tatsächlich um die Teamentwicklung von Teams innerhalb der öffentlichen Verwaltung.
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/disti
+Dennoch sollte nicht vernachlässigt werden, dass es sich hierbei vielleicht um einen Anachronismus handelt.
+Teamentwicklung im digitalen Raum der öffentlichen Verwaltung.
+Stiftet der Titel nicht schon eine Verwirrung an sich?
+
+Hier muss ich alle vermeindlichen "Lästerer" über den akteullen Stand der Digitalisierung in der Öffentlichen Verwaltung gleich widersprechen, und den vermeindlichen Wind uas den Segelen nehmen.
+
+Die über 12 TeilnehmerInnne an dem online seminar zum Thema "Teamentwicklung im digitalen Raum" hat sich explizit an Führungskräft von norddeutshcen Behördenb und Ministerein gewand.
+
+Soviel darf bereits verraten werden: Die Problemlagen - oder neudeutsch: die Pain Points - von Führungskräften der öffentlichen Verwaltung und der frien Wirtschaft untershciedne sich momenat nicht wirklich.
 
