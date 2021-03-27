@@ -5,6 +5,7 @@ description: |
 author:
   - name: Sebastian Sukstorf
     url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
+    orcid_id: 0000-0002-1538-5658
     affiliation: Sebastian Sukstorf - Consulting & Coaching
     affiliation_url: https://www.sebastian.sukstorf.de
 date: "`r Sys.Date()`"
